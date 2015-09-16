@@ -15,7 +15,6 @@ bool playerDead = true;
 //bool playerHasArrow = true;
 //
 
-
 int currentPlayerPos;
 int Move = 0;
 

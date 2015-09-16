@@ -4,7 +4,6 @@
 #include "Gold.h"
 #include "Pit.h"
 
-
 int numOfEnemy = 1;
 int numOfPits = 4;
 
