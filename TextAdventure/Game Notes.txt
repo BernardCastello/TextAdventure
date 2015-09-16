@@ -1,0 +1,5 @@
+user input keys & move around a 4x4 grid with pits and an enemy.
+
+have a cue for the player to know when it's by the pit.
+
+have another cue for when the player is by the enemy.
